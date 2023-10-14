@@ -58,8 +58,9 @@ def generate_doc_name(timestamp_str, title):
 def data_transform(submission):
     # Filter Data based on timestamp
     timestamp_str = datetime.utcfromtimestamp(submission.created_utc).strftime('%y%m%d%H')
+    
     if not filter_data(timestamp_str):
-        return None
+        return "", {}
     
     # Populate post_data dictionary
     post_data = populate_post_data(submission)
