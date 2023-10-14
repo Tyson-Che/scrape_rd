@@ -13,7 +13,7 @@ def init_reddit_clients():
     reddit_clients = []
     user_agent = "Moin"
 
-    with open(os.path.expanduser('~/Dropbox/scrapingpools/rd_threads_all.json'), 'r') as f:
+    with open('rd_threads_all.json', 'r') as f:
         all_creds = json.load(f)['credentials']
 
     for cred in all_creds:

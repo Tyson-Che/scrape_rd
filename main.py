@@ -74,4 +74,4 @@ def main(limit=None):
 
 if __name__ == "__main__":
     # Run with only the first 10 tasks for the pilot test
-    main()
+    main(limit=5)
