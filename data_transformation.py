@@ -1,9 +1,10 @@
 from textblob import TextBlob
-import datetime
+from datetime import datetime
+from token_counting import count_tokens
 def filter_data(timestamp_str):
     return timestamp_str[:2] in ['20', '21', '22', '23']
 
-def populate_post_data(submission, count_tokens):
+def populate_post_data(submission):
     post_data = {
         'title': submission.title,
         'author': str(submission.author),
@@ -19,13 +20,14 @@ def populate_post_data(submission, count_tokens):
     }
     return post_data
 
-def process_comments(submission, post_data, count_tokens):
+def process_comments(submission, post_data):
     submission.comments.replace_more(limit=None)
     all_comments = submission.comments.list()
-    
+    # print(type(all_comments),all_comments)
     for comment in all_comments:
         sentiment = TextBlob(comment.body).sentiment.polarity
         tokens = count_tokens(comment.body)
+        # print(type(comment),comment)
         comment_data = {
             'author': str(comment.author),
             'body': comment.body,
@@ -53,17 +55,17 @@ def calculate_metadata(post_data):
 def generate_doc_name(timestamp_str, title):
     return f"{timestamp_str}_{title}"
 
-def data_transform(submission, count_tokens):
+def data_transform(submission):
     # Filter Data based on timestamp
     timestamp_str = datetime.utcfromtimestamp(submission.created_utc).strftime('%y%m%d%H')
     if not filter_data(timestamp_str):
         return None
     
     # Populate post_data dictionary
-    post_data = populate_post_data(submission, count_tokens)
+    post_data = populate_post_data(submission)
     
     # Process comments and update post_data
-    process_comments(submission, post_data, count_tokens)
+    process_comments(submission, post_data)
     
     # Calculate and populate metadata in post_data
     calculate_metadata(post_data)

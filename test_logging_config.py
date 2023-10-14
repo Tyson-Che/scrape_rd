@@ -9,13 +9,13 @@ def test_configure_logging():
     logging.getLogger().setLevel(logging.NOTSET)
 
     # Debug statement to check logging level before configuration
-    print(f"Logging level before: {logging.getLogger().level}")
+    # print(f"Logging level before: {logging.getLogger().level}")
     
     # Run the function to configure logging
     configure_logging()
 
     # Debug statement to check logging level after configuration
-    print(f"Logging level after: {logging.getLogger().level}")
+    # print(f"Logging level after: {logging.getLogger().level}")
     
     # Access the root logger to check its configuration
     root_logger = logging.getLogger()

@@ -3,11 +3,10 @@ import os
 import json
 import praw
 
+
 def init_mongodb():
     # Connect to the MongoDB database
     client = MongoClient("mongodb+srv://mac_m1:damnit@serverlessinstance0.2w1ndw2.mongodb.net/")
-    db = client['soccer']
-    return db
 
 def init_reddit_clients():
     # Initialize Reddit clients
