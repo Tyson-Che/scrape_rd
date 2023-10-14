@@ -1,0 +1,101 @@
+{
+    "credentials": [
+        {
+            "client_id": "sE3-lL9y6maIONfsxV-tFA",
+            "client_secret": "FElkfCDmU74gAuJG2hmOp9tqp6d7Pw"
+        },
+        {
+            "client_id": "WKSg_4alAmMjvt0IoFGCmQ",
+            "client_secret": "Uv8C5w1RCgNqZg4GVcxxYZE7oI8-qA"
+        },        
+        {
+            "client_id": "fFKGxorWzd2pvI41SZW6TQ",
+            "client_secret": "sc4_MQvkt5tJfPWltl1nUxfifEg2tA"
+        },        
+        {
+            "client_id": "qhp9SeL5De2r-0UuCyv1RA",
+            "client_secret": "dUdIo8-xd6HtDxydl3uJJD1owcu02g"
+        },
+        {
+            "client_id": "gOgJwfhj1YSmW-bJ9PjwHQ",
+            "client_secret": "-MydXGT0UM6kVl9b2AeAZJnWeCMLMg"
+        },                
+        {
+            "client_id": "IiDtr8GRcLP5odT9-1Z0DA",
+            "client_secret": "R34ZaUG4R2xI-PFS-holu7jQqfQmRA"
+        },
+        {
+            "client_id": "TbjgoxvmMRz8uU-KAcH2mQ",
+            "client_secret": "_7ZYs-Lx9OxQWv9uZILyy788vyNWUA"
+        },
+        {
+            "client_id": "OGOIg_syDeIG4bp8TwjxXw",
+            "client_secret": "PRwx5v8m4qNOLU8kbGPXID2tZflnbg"
+        },{
+            "client_id": "zThDf5eELm1zmcoGAOP6nA",
+            "client_secret": "oBYJ5Kodkani1inFAXw4_l2xl360ZA"
+        },
+        {
+            "client_id": "LzxgvzgP1m-Tj5wBzhXcLQ",
+            "client_secret": "CLKGli8eC2rcJBiOD579fQofgD20sw"
+        },{
+            "client_id": "7XF55OZgtLPHJCzKnrly7w",
+            "client_secret": "IfIbAaHkjcaIYUf7lQRISJWqq7B4_g"
+        },{
+            "client_id": "vqE8G8valsnWget54sysSQ",
+            "client_secret": "dsSW7GzGNqQHYjs19z8hQ-pZnlcAAw"
+        },{
+            "client_id": "OwflQqtaOg4F3apKwnF2wg",
+            "client_secret": "yidnM4aN1odLdLkwpagkTKpp3pBO1A"
+        },{
+            "client_id": "B-PBQeXTfx_TF3lBcjsZrA",
+            "client_secret": "BBO5u4QLdHA0_C9Uz0Es7LC-WpShAQ"
+        },{
+            "client_id": "ehzR9BCsPZdx1pqzKEFb6g",
+            "client_secret": "QKmSUmJR9c-WKbocftqSkPL48Y_RHg"
+        },{
+            "client_id": "E1019mtY3TMDy-j8NR6uPA",
+            "client_secret": "iLNcd2yHDTQ8NqrrfmpLUvLhQSOgOA"
+        },
+	{
+	    "client_id": "pnPbVui-_yhk9J_dQvsgdA",
+	    "client_secret": "lH1nXf3pgl5V8fgqk7ROl_PaDLxhuQ"
+	},
+	{
+	    "client_id": "Hy-eH_96G-AXR5VgKn9G4A",
+	    "client_secret": "2ByrWM-xgwALnSvj_fGC5SNXyxp17g"
+	},{
+	    "client_id": "khd1a59ITgS_eNdFVo1TjQ",
+	    "client_secret": "j1lsOlIAjBfDpBiPT-VTBAf4Rm-Fag"
+	},
+	{
+	    "client_id": "VbqyUMofOTuNEPvTx4yY4A",
+	    "client_secret": "jsN8qxyef3HzoIpGLh86oJ44UKbBOg"
+	}
+,
+	{
+	    "client_id": "4KG7Yd24ycoOC9oSC1z6eA",
+	    "client_secret": "RSVkWM7XNqXYGRVFj57oVh9ZK4zqvg"
+	}
+,
+	{
+	    "client_id": "sIzJL88bgLc22DVb6iGZcA",
+	    "client_secret": "3gryvnZiJwDrgOeQrF844z5j9NYrTg"
+	}
+,
+	{
+	    "client_id": "JR7ZpBXyArJ2QNu1ZlMmLA",
+	    "client_secret": "Pmnh4RqxOkWNBTrY7fR0WcWx7a1cYg"
+	}
+,
+	{
+	    "client_id": "VrF9r9tZQHp2tWHxkw76Eg",
+	    "client_secret": "M--7JJakZMFgRwTYTzbTMQi1WClt5A"
+	}
+,
+	{
+	    "client_id": "BAOtMLGG-_TD9WSrkN9kzw",
+	    "client_secret": "taQ7qkIS4yS02W6k_Piz9efXilq-5g"
+	}
+    ]
+}
