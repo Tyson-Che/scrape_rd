@@ -1,0 +1,5 @@
+tiktoken
+textblob
+tqdm
+pymongo
+praw
