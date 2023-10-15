@@ -14,7 +14,7 @@ from pymongo import MongoClient
 logging.basicConfig(filename='main.log', level=logging.INFO)
 
 # Read the list of tasks (futures)
-csv_file_path = os.path.expanduser('~/Dropbox/scrapingpools/todos.csv')
+csv_file_path = 'todos.csv'
 
 def read_csv_tasks(file_path):
     tasks = []
