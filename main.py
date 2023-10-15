@@ -44,7 +44,7 @@ def main(csv_file_path, limit=None):
 
     # Prepare for multi-threading
     future_to_task = {}
-    with ThreadPoolExecutor(max_workers=len(reddit_clients)) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         client_index = 0
         for task in tasks:
             future = executor.submit(
@@ -71,4 +71,4 @@ def main(csv_file_path, limit=None):
 
 if __name__ == "__main__":
     # Run with only the first 10 tasks for the pilot test
-    main(limit=5)
+    main('Server_11_todos.csv')
