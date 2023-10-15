@@ -44,7 +44,7 @@ def main(csv_file_path, limit=None):
 
     # Prepare for multi-threading
     future_to_task = {}
-    with ThreadPoolExecutor(max_workers=len(reddit_clients)) as executor:
+    with ThreadPoolExecutor(max_workers=2) as executor:
         client_index = 0
         for task in tasks:
             future = executor.submit(

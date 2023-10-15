@@ -1,4 +1,5 @@
 from data_fetching import fetch_reddit_data
+import time  # for sleep
 from data_transformation import data_transform
 # from data_insertion import insert_data
 from error_handling import handle_error
@@ -8,32 +9,34 @@ import logging
 # Initialize logging
 configure_logging()
 
-def fetch_post(client,db, subreddit_name, reddit_client, post_id, client_index):
-    """Fetch a single post from Reddit and store it in MongoDB.
+def fetch_post(client, db, subreddit_name, reddit_client, post_id, client_index):
+    retries = 3  # Number of retries
+    delay = 5  # Delay in seconds
 
-    Args:
-        db (database): MongoDB database instance.
-        subreddit_name (str): The subreddit name.
-        reddit_client: PRAW Reddit API client.
-        post_id (str): Reddit post ID.
-        client_index (int): Reddit client index for logging.
-    """
+    for i in range(retries):
+        try:
+            # Fetch the data
+            raw_data = fetch_reddit_data(reddit_client, post_id)
 
-    try:
-        # Fetch the data
-        raw_data = fetch_reddit_data(reddit_client, post_id)
-        # print(type(raw_data),raw_data)
-        # Transform the data
-        transformed_data = data_transform(raw_data)
-        doc_str = transformed_data[0]
-        post_data = transformed_data[1]
-        # Insert the data into MongoDB
-        client[db][subreddit_name].insert_one({doc_str: post_data})
+            # Transform the data
+            transformed_data = data_transform(raw_data)
+            doc_str, post_data = transformed_data
 
-        logging.info(f"Fetched and inserted data for post ID: {post_id}")
+            # Insert the data into MongoDB
+            client[db][subreddit_name].insert_one({doc_str: post_data})
+            logging.info(f"Fetched and inserted data for post ID: {post_id}")
 
-    except Exception as e:
-        error_msg = f"An error occurred for DB: {db}, Subreddit: {subreddit_name}, Post ID: {post_id}. Error: {e}"
-        handle_error(error_msg,db,subreddit_name,post_id)
-        
+            return  # If successful, exit the function
+
+        except Exception as e:
+            error_msg = f"An error occurred for DB: {db}, Subreddit: {subreddit_name}, Post ID: {post_id}. Error: {e}"
+            
+            # Specific handling for 403 error
+            if "403" in str(e):
+                logging.error(f"403 Forbidden error. Retry {i + 1}/{retries}.")
+                time.sleep(delay * (i + 1))  # Exponential backoff
+            else:
+                handle_error(error_msg, db, subreddit_name, post_id)
+                break  # If it's not a 403 error, no retry, just handle the error and break
+
     logging.info(f"Thread using Reddit client with index: {client_index} completed.")
