@@ -14,7 +14,7 @@ from pymongo import MongoClient
 logging.basicConfig(filename='main.log', level=logging.INFO)
 
 # Read the list of tasks (futures)
-csv_file_path = 'todos.csv'
+# csv_file_path = 'todos.csv'
 
 def read_csv_tasks(file_path):
     tasks = []
@@ -29,17 +29,14 @@ def read_csv_tasks(file_path):
             })
     return tasks
 
-def main(limit=None):
+def main(csv_file_path, limit=None):
     # Initialize MongoDB and Reddit clients
-    # init_mongodb()
     client = MongoClient("mongodb+srv://mac_m1:damnit@serverlessinstance0.2w1ndw2.mongodb.net/")
-    
-    
     reddit_clients = init_reddit_clients()
-
-    # Read tasks
-    tasks = read_csv_tasks(csv_file_path)
     
+    # Read tasks specific to this server from the given csv_file_path
+    tasks = read_csv_tasks(csv_file_path)
+
     # Limit the number of tasks if the limit parameter is set
     # Limit the number of tasks if the limit parameter is set
     if limit:
