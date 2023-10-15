@@ -5,7 +5,6 @@ from fetch_post import fetch_post
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import logging
 import csv
-import os
 from tqdm import tqdm  # Import the tqdm package for progress bars
 from pymongo import MongoClient
 
