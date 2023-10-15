@@ -7,7 +7,7 @@ import logging
 import csv
 from tqdm import tqdm  # Import the tqdm package for progress bars
 from pymongo import MongoClient
-
+#@todo divide the todos.csv into several pieces
 
 # Initialize logging
 logging.basicConfig(filename='main.log', level=logging.INFO)
