@@ -12,6 +12,7 @@ configure_logging()
 def fetch_post(client, db, subreddit_name, reddit_client, post_id, client_index):
     retries = 5  # Number of retries
     delay = 5  # Delay in seconds
+    success = False  # Flag to check if the operation was successful
 
     for i in range(retries):
         try:
@@ -26,7 +27,8 @@ def fetch_post(client, db, subreddit_name, reddit_client, post_id, client_index)
             client[db][subreddit_name].insert_one({doc_str: post_data})
             logging.info(f"Fetched and inserted data for post ID: {post_id}")
 
-            return  # If successful, exit the function
+            success = True  # Mark as successful
+            break  # Exit the loop
 
         except Exception as e:
             error_msg = f"An error occurred for DB: {db}, Subreddit: {subreddit_name}, Post ID: {post_id}. Error: {e}"
@@ -38,5 +40,9 @@ def fetch_post(client, db, subreddit_name, reddit_client, post_id, client_index)
             else:
                 handle_error(error_msg, db, subreddit_name, post_id)
                 break  # If it's not a 403 error, no retry, just handle the error and break
+
+    if not success:
+        with open('notdone.log', 'a') as f:
+            f.write(f"{db},{subreddit_name},{post_id}\n")
 
     logging.info(f"Thread using Reddit client with index: {client_index} completed.")
