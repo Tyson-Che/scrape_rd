@@ -71,4 +71,4 @@ def main(csv_file_path, limit=None):
 
 if __name__ == "__main__":
     # Run with only the first 10 tasks for the pilot test
-    main('Server_11_todos.csv')
+    main('todos_chunk_2.csv')
