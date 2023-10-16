@@ -16,18 +16,18 @@ logging.basicConfig(filename='main.log', level=logging.INFO)
 # Read the list of tasks (futures)
 # csv_file_path = 'todos.csv'
 
-# def read_csv_tasks(file_path):
-#     tasks = []
-#     with open(file_path, mode='r', newline='', encoding='utf-8') as f:
-#         reader = csv.reader(f)
-#         next(reader)  # Skip header row
-#         for row in reader:
-#             tasks.append({
-#                 'database': row[0],
-#                 'collection': row[1],
-#                 'post_id': row[2]
-#             })
-#     return tasks
+def read_csv_tasks(file_path):
+    tasks = []
+    with open(file_path, mode='r', newline='', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        next(reader)  # Skip header row
+        for row in reader:
+            tasks.append({
+                'database': row[0],
+                'collection': row[1],
+                'post_id': row[2]
+            })
+    return tasks
 import time  # for sleep
 
 # Initialize a list of CSV files to be processed
