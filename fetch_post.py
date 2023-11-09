@@ -17,14 +17,15 @@ def fetch_post(client, db, subreddit_name, reddit_client, post_id, client_index)
     for i in range(retries):
         try:
             # Fetch the data
-            raw_data = fetch_reddit_data(reddit_client, post_id)
-
+            raw_data = reddit_client.submission(id=post_id)
             # Transform the data
             transformed_data = data_transform(raw_data)
             doc_str, post_data = transformed_data
-
+            # insert only when post_data is not {}
+            if post_data == {}:
+                break
             # Insert the data into MongoDB
-            client[db][subreddit_name].insert_one({doc_str: post_data})
+            client[db][subreddit_name].insert_one(post_data)
             logging.info(f"Fetched and inserted data for post ID: {post_id}")
 
             success = True  # Mark as successful
