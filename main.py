@@ -31,10 +31,10 @@ def read_csv_tasks(file_path):
 import time  # for sleep
 
 # Initialize a list of CSV files to be processed
-csv_files = [f'todos_chunk_{i}.csv' for i in range(3, 51)]
+csv_files = [f'todos_chunk_{1}.csv']
 
 def main():
-    client = MongoClient("mongodb+srv://mac_m1:damnit@serverlessinstance0.2w1ndw2.mongodb.net/")
+    client = MongoClient("mongodb+srv://writer:writer@fuckrd.nswnbxy.mongodb.net/")
     reddit_clients = init_reddit_clients()
     
     while csv_files:  # Keep running until all CSV files are processed
@@ -43,7 +43,7 @@ def main():
         
         # The rest of your code remains largely the same
         future_to_task = {}
-        with ThreadPoolExecutor(max_workers=10) as executor:
+        with ThreadPoolExecutor(max_workers=5) as executor:
             client_index = 0
             for task in tasks:
                 future = executor.submit(
