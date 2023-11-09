@@ -1,4 +1,3 @@
-from data_fetching import fetch_reddit_data
 import time  # for sleep
 from data_transformation import data_transform
 # from data_insertion import insert_data
