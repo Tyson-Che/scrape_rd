@@ -204,7 +204,7 @@ def read_csv_tasks(file_path):
 import time  # for sleep
 
 # Initialize a list of CSV files to be processed
-csv_files = [f'todos_chunk_{4}.csv']
+csv_files = [f'todos_chunk_{2}.csv']
 
 def main():
     client = MongoClient("mongodb+srv://writer:writer@fuckrd.nswnbxy.mongodb.net/")
@@ -217,7 +217,7 @@ def main():
         # The rest of your code remains largely the same
         future_to_task = {}
         with ThreadPoolExecutor(max_workers=5) as executor:
-            client_index = 0
+            client_index = 5
             for task in tasks:
                 future = executor.submit(
                     fetch_post,
