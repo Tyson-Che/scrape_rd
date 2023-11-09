@@ -1,0 +1,1086 @@
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r2twq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r2twq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r2thu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r2thu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 1 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5razwq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5razwq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 0 completed.
+INFO:root:Thread using Reddit client with index: 4 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r410o. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r410o. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 2 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r4wcm. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5r4wcm. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 3 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rd7ck. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rd7ck. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rd8d8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rd8d8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 6 completed.
+INFO:root:Thread using Reddit client with index: 7 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rgwma. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rgwma. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 9 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rcrzx. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rcrzx. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rgn1o. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rgn1o. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 8 completed.
+INFO:root:Thread using Reddit client with index: 5 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rolk9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rolk9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rjo5w. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rjo5w. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 14 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ro1fr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ro1fr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 13 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rj5a4. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rj5a4. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 11 completed.
+INFO:root:Thread using Reddit client with index: 12 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rh8b0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rh8b0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 10 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5r410o'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rh8b0'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5r2thu'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rd8d8'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rjo5w'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rgwma'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rolk9'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rd7ck'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rj5a4'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5r2twq'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rgn1o'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ro1fr'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5razwq'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rcrzx'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5r4wcm'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rvdsv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rvdsv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ruf34. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ruf34. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 18 completed.
+INFO:root:Thread using Reddit client with index: 19 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ruf34'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rvdsv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rrg0a. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rrg0a. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rrmne. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rrmne. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 16 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rrg0a'}
+INFO:root:Thread using Reddit client with index: 17 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rrmne'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rpc6q. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rpc6q. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 15 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rpc6q'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rx2w5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rx2w5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 21 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rx2w5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rwgns. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rwgns. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 20 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rwgns'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s19kc. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s19kc. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 23 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5s19kc'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rxgre. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5rxgre. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 22 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5rxgre'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s1xsz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s1xsz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 24 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5s1xsz'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s3q15. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s3q15. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 26 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5s3q15'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sbrkn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sbrkn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 28 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sbrkn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sard7. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sard7. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 27 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sard7'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s3puw. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5s3puw. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 25 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5s3puw'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sc6a8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sc6a8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 29 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sc6a8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sf44x. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sf44x. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 30 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sf44x'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5shg58. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5shg58. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 32 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5shg58'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sj948. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sj948. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 33 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sj948'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sj976. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sj976. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 34 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sj976'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sfwaj. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sfwaj. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 31 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sfwaj'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5soddv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5soddv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 37 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5soddv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5snvq2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5snvq2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 36 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5snvq2'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sogwn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5sogwn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 38 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5sogwn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t0dgh. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t0dgh. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 39 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t0dgh'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5snoy9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5snoy9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 35 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5snoy9'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t0voa. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t0voa. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 40 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t0voa'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t2pqo. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t2pqo. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 41 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t2pqo'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t30ix. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t30ix. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 42 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t30ix'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t379p. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t379p. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 43 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t379p'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t7gsv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t7gsv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 44 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t7gsv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t8qv9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t8qv9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 46 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t8qv9'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t81do. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5t81do. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 45 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5t81do'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5taxb8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5taxb8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 47 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5taxb8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tb1de. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tb1de. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 48 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5tb1de'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tmqc9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tmqc9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 50 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5tmqc9'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tqv66. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tqv66. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 52 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5tqv66'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tdpxp. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5tdpxp. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 49 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5tdpxp'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u1ewt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u1ewt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 53 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5u1ewt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u7dfo. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u7dfo. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 55 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5u7dfo'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u3rpc. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u3rpc. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 54 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5u3rpc'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5to9mw. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5to9mw. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 51 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5to9mw'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u8an8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u8an8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u9cha. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5u9cha. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 57 completed.
+INFO:root:Thread using Reddit client with index: 56 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5u9cha'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5u8an8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uagza. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uagza. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 58 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uagza'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uajcn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uajcn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 59 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uajcn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ud3ee. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ud3ee. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 60 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ud3ee'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5unz5t. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5unz5t. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 62 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5unz5t'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5urlau. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5urlau. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 63 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5urlau'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uf00n. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uf00n. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 61 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uf00n'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uu71r. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uu71r. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 65 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uu71r'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uu947. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uu947. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 66 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uu947'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uur6a. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uur6a. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 67 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uur6a'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uz9kv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uz9kv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 68 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uz9kv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uzu2e. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uzu2e. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 69 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uzu2e'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v0mkt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v0mkt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 70 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v0mkt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v17q5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v17q5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 71 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v17q5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v5iiy. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v5iiy. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 73 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v5iiy'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v1j39. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v1j39. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 72 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v1j39'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v6115. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v6115. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 74 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v6115'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v8u6v. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v8u6v. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 75 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v8u6v'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v8wo8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5v8wo8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 76 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5v8wo8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vbvl8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vbvl8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vcfjw. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vcfjw. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 78 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vcfjw'}
+INFO:root:Thread using Reddit client with index: 77 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vbvl8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vcko7. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vcko7. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 79 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vcko7'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vcxqw. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vcxqw. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 80 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vcxqw'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uu6gz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5uu6gz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 64 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5uu6gz'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vje5d. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vje5d. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 82 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vje5d'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vl31u. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vl31u. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 83 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vl31u'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vodqn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vodqn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vj02v. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vj02v. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 81 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vj02v'}
+INFO:root:Thread using Reddit client with index: 84 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vodqn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vr8y0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vr8y0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 86 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vr8y0'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vrmki. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vrmki. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 87 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vrmki'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vuoo4. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vuoo4. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 89 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vuoo4'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vr3xa. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vr3xa. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 85 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vr3xa'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vuiy7. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vuiy7. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 88 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vuiy7'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vxjkh. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vxjkh. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 90 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vxjkh'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vxpg5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vxpg5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 91 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vxpg5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vz5i6. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5vz5i6. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 92 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5vz5i6'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w51qd. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w51qd. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 94 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5w51qd'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w03cv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w03cv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 93 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5w03cv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w68up. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w68up. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 95 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5w68up'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w7fwq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5w7fwq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 96 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5w7fwq'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wk0y7. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wk0y7. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 98 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wk0y7'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wjfyo. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wjfyo. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 97 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wjfyo'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wphm1. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wphm1. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 100 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wphm1'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wkfvl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wkfvl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 99 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wkfvl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wq6mr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wq6mr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 101 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wq6mr'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wq8ek. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wq8ek. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 103 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wq8ek'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wq7u3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wq7u3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 102 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wq7u3'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wz36o. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5wz36o. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 104 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5wz36o'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x0le2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x0le2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 105 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5x0le2'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x3zl0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x3zl0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 107 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5x3zl0'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x4kge. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x4kge. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 108 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5x4kge'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xak3c. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xak3c. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 110 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xak3c'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x83wa. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x83wa. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 109 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5x83wa'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xakbe. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xakbe. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 111 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xakbe'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xb4ho. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xb4ho. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 112 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xb4ho'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xbiok. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xbiok. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 113 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xbiok'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xbj6s. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xbj6s. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 114 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xbj6s'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xca1s. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xca1s. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 115 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xca1s'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xcemx. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xcemx. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 116 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xcemx'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x0ncu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5x0ncu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 106 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5x0ncu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xhq8b. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xhq8b. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 119 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xhq8b'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xepl5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xepl5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 118 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xepl5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xcf40. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xcf40. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 117 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xcf40'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xibtb. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xibtb. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 120 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xibtb'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xkuh4. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xkuh4. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 123 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xkuh4'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xj52v. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xj52v. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 122 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xj52v'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xonsj. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xonsj. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 124 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xonsj'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xj4wv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xj4wv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 121 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xj4wv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xp406. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xp406. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 126 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xp406'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xqagj. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xqagj. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 127 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xqagj'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xtoxl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xtoxl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 128 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xtoxl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xtz6s. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xtz6s. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 129 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xtz6s'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xuljx. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xuljx. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 130 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xuljx'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xov4i. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xov4i. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 125 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xov4i'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xvln5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xvln5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 133 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xvln5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xuw2j. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xuw2j. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 132 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xuw2j'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xus7s. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xus7s. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 131 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xus7s'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xwpm0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xwpm0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 135 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xwpm0'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xvziy. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5xvziy. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 134 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5xvziy'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y2hfr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y2hfr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 137 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y2hfr'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y1bo1. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y1bo1. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 136 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y1bo1'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y2t76. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y2t76. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 139 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y2t76'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y2s3d. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y2s3d. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 138 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y2s3d'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y3gob. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y3gob. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 140 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y3gob'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y5nkm. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y5nkm. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 141 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y5nkm'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yd14t. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yd14t. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 143 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yd14t'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y9bhs. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5y9bhs. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 142 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5y9bhs'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ygliz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ygliz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 144 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ygliz'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yhr6h. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yhr6h. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 145 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yhr6h'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yjd2f. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yjd2f. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 147 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yjd2f'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yhrwb. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yhrwb. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 146 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yhrwb'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yo67d. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yo67d. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 149 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yo67d'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ypeer. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ypeer. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 150 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ypeer'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yu3be. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yu3be. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 152 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yu3be'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yt4tu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yt4tu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 151 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yt4tu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yun6v. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yun6v. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 153 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yun6v'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ym5nb. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ym5nb. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 148 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ym5nb'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yvr96. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yvr96. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 157 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yvr96'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yuxe1. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yuxe1. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 155 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yuxe1'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yz8m1. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yz8m1. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 158 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yz8m1'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yv5y9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yv5y9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 156 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yv5y9'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z32uy. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z32uy. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 159 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z32uy'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z3c5f. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z3c5f. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 160 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z3c5f'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z4y80. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z4y80. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 161 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z4y80'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z5g1h. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z5g1h. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 163 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z5g1h'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yuvt8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5yuvt8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 154 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5yuvt8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z6g02. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z6g02. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 164 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z6g02'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z6sbl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z6sbl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 165 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z6sbl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z8feu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z8feu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 168 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z8feu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z7mly. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z7mly. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 167 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z7mly'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5za8rn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5za8rn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 169 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5za8rn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z53ft. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z53ft. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 162 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z53ft'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z7k89. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5z7k89. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 166 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5z7k89'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zc923. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zc923. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 170 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zc923'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zd6ed. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zd6ed. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 172 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zd6ed'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zdsak. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zdsak. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 173 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zdsak'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zethi. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zethi. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 174 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zethi'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zh3d7. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zh3d7. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 175 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zh3d7'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zjqlo. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zjqlo. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 176 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zjqlo'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zkk6g. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zkk6g. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 177 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zkk6g'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zlj3c. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zlj3c. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 178 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zlj3c'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zmbcy. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zmbcy. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 179 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zmbcy'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zo8gp. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zo8gp. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 180 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zo8gp'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zqlkl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zqlkl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 181 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zqlkl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ztbfr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5ztbfr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 184 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5ztbfr'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zcz4v. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zcz4v. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 171 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zcz4v'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zswke. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zswke. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 183 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zswke'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zr434. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zr434. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 182 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zr434'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zu4kl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zu4kl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 185 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zu4kl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zv5m6. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zv5m6. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 186 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zv5m6'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zyffb. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zyffb. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 187 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zyffb'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 600ibb. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 600ibb. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 189 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '600ibb'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 604vnr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 604vnr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 190 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '604vnr'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 605xxc. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 605xxc. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 192 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '605xxc'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 604xz8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 604xz8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 191 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '604xz8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zymt4. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 5zymt4. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 188 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '5zymt4'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 606584. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 606584. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 193 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '606584'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 607gbq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 607gbq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 197 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '607gbq'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 607clk. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 607clk. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 196 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '607clk'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 606ajn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 606ajn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 194 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '606ajn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60bqad. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60bqad. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 198 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60bqad'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 606t1i. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 606t1i. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 195 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '606t1i'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60irv1. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60irv1. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 199 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60irv1'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60k034. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60k034. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 200 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60k034'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60lr1f. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60lr1f. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 203 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60lr1f'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60l3eq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60l3eq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 201 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60l3eq'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60nzsl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60nzsl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 204 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60nzsl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60omhz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60omhz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 207 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60omhz'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60ovx6. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60ovx6. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 208 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60ovx6'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60oxbt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60oxbt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 209 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60oxbt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60o85r. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60o85r. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 206 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60o85r'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60ldpk. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60ldpk. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 202 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60ldpk'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60p2oh. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60p2oh. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 210 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60p2oh'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60o0cp. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60o0cp. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 205 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60o0cp'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60pgv4. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60pgv4. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 211 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60pgv4'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60qjk3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60qjk3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 213 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60qjk3'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60pukf. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60pukf. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 212 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60pukf'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60w4n3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60w4n3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 216 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60w4n3'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60qw0l. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60qw0l. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 214 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60qw0l'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60w9xi. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60w9xi. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 217 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60w9xi'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 612ya0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 612ya0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 218 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '612ya0'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 614jg5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 614jg5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 219 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '614jg5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60uq3y. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 60uq3y. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 215 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '60uq3y'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61gras. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61gras. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 221 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61gras'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 616j4a. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 616j4a. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 220 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '616j4a'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61ty19. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61ty19. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61t2gx. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61t2gx. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 223 completed.
+INFO:root:Thread using Reddit client with index: 225 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61t2gx'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61ty19'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61ub0z. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61ub0z. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 226 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61ub0z'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61teo4. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61teo4. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 224 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61teo4'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61ob14. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61ob14. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 222 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61ob14'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61z977. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61z977. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61v62d. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 61v62d. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 227 completed.
+INFO:root:Thread using Reddit client with index: 228 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61v62d'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '61z977'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 620ipq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 620ipq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 229 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '620ipq'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 623v94. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 623v94. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 231 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '623v94'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 628cf3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 628cf3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 621zc7. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 621zc7. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 232 completed.
+INFO:root:Thread using Reddit client with index: 230 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '628cf3'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '621zc7'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 629b13. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 629b13. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 234 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '629b13'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62aymt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62aymt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 235 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62aymt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62dpsk. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62dpsk. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 237 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62dpsk'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 628v22. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 628v22. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 233 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '628v22'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62dnpu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62dnpu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 236 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62dnpu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62g4f0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62g4f0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 238 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62g4f0'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62gu4z. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62gu4z. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 239 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62gu4z'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62ifku. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62ifku. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 240 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62ifku'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62oc0r. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62oc0r. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 243 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62oc0r'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62mv7b. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62mv7b. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 242 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62mv7b'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62olj8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62olj8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 244 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62olj8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62p7tc. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62p7tc. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 245 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62p7tc'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62swie. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62swie. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 246 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62swie'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uiyh. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uiyh. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 247 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62uiyh'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62ipns. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62ipns. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 241 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62ipns'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uprl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uprl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 249 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62uprl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uju8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uju8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 248 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62uju8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62v3zr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62v3zr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 251 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62v3zr'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uwc8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62uwc8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 250 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62uwc8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62vkp2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62vkp2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 252 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62vkp2'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62wgr2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62wgr2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 253 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62wgr2'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62wjg5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62wjg5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 254 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62wjg5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630vun. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630vun. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 258 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '630vun'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630t5g. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630t5g. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 257 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '630t5g'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62x2pg. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62x2pg. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 256 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62x2pg'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630w0w. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630w0w. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 259 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '630w0w'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6329m8. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6329m8. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 261 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '6329m8'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630wai. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 630wai. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 260 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '630wai'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6338ar. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6338ar. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 263 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '6338ar'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62wnzf. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 62wnzf. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 255 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '62wnzf'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 633n23. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 633n23. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 266 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '633n23'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 633gyi. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 633gyi. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 265 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '633gyi'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 633gpa. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 633gpa. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 264 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '633gpa'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 634f3r. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 634f3r. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 267 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '634f3r'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 637lra. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 637lra. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 269 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '637lra'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 638d2r. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 638d2r. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 270 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '638d2r'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 636hvh. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 636hvh. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 268 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '636hvh'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 632qij. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 632qij. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 262 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '632qij'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 638djn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 638djn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 271 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '638djn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63gg5j. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63gg5j. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 275 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63gg5j'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63bqim. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63bqim. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 274 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63bqim'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63anhu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63anhu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 273 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63anhu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 639cff. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 639cff. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 272 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '639cff'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63n4ox. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63n4ox. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 276 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63n4ox'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63pyl5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63pyl5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 278 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63pyl5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63osyx. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63osyx. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 277 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63osyx'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63qxgs. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63qxgs. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 279 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63qxgs'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63ukiy. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63ukiy. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 281 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63ukiy'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63zynv. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63zynv. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 283 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63zynv'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63wnjt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63wnjt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 282 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63wnjt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 641iac. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 641iac. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 284 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '641iac'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6428cz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6428cz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 286 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '6428cz'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 641x9g. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 641x9g. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 285 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '641x9g'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64304r. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64304r. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 288 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64304r'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 642wxa. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 642wxa. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 287 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '642wxa'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63st2n. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 63st2n. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 280 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '63st2n'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6488he. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6488he. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 289 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '6488he'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bl6g. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bl6g. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 291 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64bl6g'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bte2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bte2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 293 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64bte2'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bmgo. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bmgo. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 292 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64bmgo'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bua6. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64bua6. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 294 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64bua6'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64glzt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64glzt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 296 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64glzt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64dn78. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64dn78. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 295 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64dn78'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lplu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lplu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 297 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64lplu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6493yo. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6493yo. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 290 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '6493yo'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lsni. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lsni. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 298 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64lsni'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lszm. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lszm. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 299 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64lszm'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64qktx. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64qktx. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lt1q. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64lt1q. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 301 completed.
+INFO:root:Thread using Reddit client with index: 300 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64qktx'}
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64lt1q'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64r6ph. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64r6ph. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 303 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64r6ph'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64r319. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64r319. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 302 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64r319'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64s7y0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64s7y0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 304 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64s7y0'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64scy6. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64scy6. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 305 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64scy6'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64twhl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64twhl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 306 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64twhl'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64u1tt. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64u1tt. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 307 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64u1tt'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64zki5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 64zki5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 308 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '64zki5'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65237a. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65237a. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 310 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65237a'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 653ur3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 653ur3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 311 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '653ur3'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65em3w. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65em3w. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 314 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65em3w'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65fnk9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65fnk9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 315 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65fnk9'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6572vu. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6572vu. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 313 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '6572vu'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 656d6w. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 656d6w. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 312 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '656d6w'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65ha2g. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65ha2g. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 316 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65ha2g'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 650lby. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 650lby. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 309 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '650lby'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65jj4b. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65jj4b. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 318 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65jj4b'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65ja4p. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65ja4p. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 317 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65ja4p'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65kvyr. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65kvyr. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 319 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65kvyr'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65lh80. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65lh80. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 320 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65lh80'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65rxxd. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65rxxd. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 323 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65rxxd'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65mfzz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65mfzz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 322 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65mfzz'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65vnpn. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65vnpn. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 324 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65vnpn'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65w7tc. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65w7tc. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 325 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65w7tc'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65wnv1. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65wnv1. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 327 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65wnv1'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65wlze. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65wlze. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 326 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65wlze'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65wul2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65wul2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 328 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65wul2'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65m047. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65m047. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 321 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65m047'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65xupd. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65xupd. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 330 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65xupd'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65xxue. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65xxue. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 331 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65xxue'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65xldk. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65xldk. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 329 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65xldk'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65y92w. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65y92w. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 332 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65y92w'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65yqan. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65yqan. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 333 completed.
+INFO:root:Successfully processed task {'database': 'MLS', 'collection': 'chicagofire', 'post_id': '65yqan'}
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65zljl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 65zljl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 334 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6640i2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 6640i2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 335 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 664bie. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 664bie. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 336 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 664kte. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 664kte. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 337 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66algg. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66algg. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 340 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 665tgq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 665tgq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 338 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66acgl. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66acgl. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 339 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66el3b. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66el3b. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 342 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66i9j2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66i9j2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 343 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66iag2. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66iag2. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 344 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66idf0. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66idf0. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 345 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66e840. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66e840. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 341 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66itf3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66itf3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 346 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66j0dk. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66j0dk. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 348 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66ml31. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66ml31. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 350 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66iw0s. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66iw0s. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 347 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66pdic. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66pdic. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 351 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66po00. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66po00. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 352 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66pua9. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66pua9. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 353 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66qc08. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66qc08. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 354 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66jsu3. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66jsu3. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 349 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66rcrb. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66rcrb. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 355 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66rrkq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66rrkq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 356 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66sn5c. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66sn5c. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 358 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66si4n. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66si4n. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 357 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66vxsf. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66vxsf. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 360 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 678z45. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 678z45. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 362 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66xmyw. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66xmyw. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 361 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 678zcz. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 678zcz. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 363 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67axgi. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67axgi. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 364 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67cf45. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67cf45. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 365 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66tgal. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 66tgal. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 359 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67cvgq. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67cvgq. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 366 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67h4xd. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67h4xd. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 367 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67jmif. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67jmif. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 370 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67jll6. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67jll6. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 369 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67k8tc. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67k8tc. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 371 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67sc6h. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67sc6h. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 372 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67vkka. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67vkka. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 373 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67ivop. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 67ivop. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 368 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 682ntk. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 682ntk. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 375 completed.
+ERROR:root:An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 684bd5. Error: An error occurred for DB: MLS, Subreddit: chicagofire, Post ID: 684bd5. Error: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping
+INFO:root:Thread using Reddit client with index: 376 completed.
