@@ -116,7 +116,7 @@ def data_transform(submission):
     timestamp_str = datetime.utcfromtimestamp(submission.created_utc).strftime('%y%m%d%H')
 
     if not filter_data(timestamp_str):  # doneTODO skip this instead of returning empty
-        return "", {}
+        return {}
 
     # Populate post_data dictionary
     post_data = populate_post_data(submission)
